@@ -55,7 +55,7 @@ INSERT INTO enrollment (student_id, course_id) VALUES
 
 
 
--- Insert a new student (replace with your details)
+-- Insert a new student 
 INSERT INTO students (student_name, age, email, frontend_mark, backend_mark, status)
 VALUES ('Sabbir', 23, 'sabbirshnt@gmail.com', 80, 70, NULL);
 
